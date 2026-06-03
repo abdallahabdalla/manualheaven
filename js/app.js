@@ -1,0 +1,1 @@
+console.log("ManualHeaven MVP initialized");
