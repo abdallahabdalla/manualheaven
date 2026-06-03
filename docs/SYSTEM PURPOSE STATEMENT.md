@@ -1,0 +1,1 @@
+ManualHeaven is a frontend-only simulated e-commerce system designed to demonstrate a complete online shopping workflow including product browsing, order placement, and order confirmation without backend infrastructure.
